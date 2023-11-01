@@ -14,7 +14,9 @@ To see the output dataframe for 'Part 2: Scrape and Analyse Mars Weather Data', 
 
 ## Credits
 Special thanks to the folloiwng individuals for their contribution:
+
 -AskBCS learning assistants
+
 -Jefferery Chieh-Liu (TA)
 
 
