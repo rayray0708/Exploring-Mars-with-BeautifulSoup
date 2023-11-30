@@ -1,5 +1,5 @@
 ![Illustration of BeautifulSoup](https://yganalyst.github.io/assets/images/crawling.png)
-# web_scraping_challenge
+# Exploring-Mars-with-BeautifulSoup
 ## Description
 I've learned to identify HTML elements on a page by their 'id' and 'class' attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with BeautifulSoup. In this project, I will be applying these skills and knowledge to practice. 
 
