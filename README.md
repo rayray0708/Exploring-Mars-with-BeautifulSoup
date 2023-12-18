@@ -39,11 +39,11 @@ Here’s an explanation of the column headings:
 * `pressure`: The atmospheric pressure at Curiosity's location
 
 Specifically, we wanted to answer these questions:
-*How many months exist on Mars?
-*How many Martian (and not Earth) days worth of data exist in the scraped dataset?
-*What are the coldest and the warmest months on Mars (at the location of Curiosity)? Plot the results in a bar chart
-*Which months have the lowest and the highest atmospheric pressure on Mars? Plot the results in a bar chart.
-*About how many terrestrial (Earth) days exist in a Martian year? 
+* How many months exist on Mars?
+* How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+* What are the coldest and the warmest months on Mars (at the location of Curiosity)? Plot the results in a bar chart
+* Which months have the lowest and the highest atmospheric pressure on Mars? Plot the results in a bar chart.
+* About how many terrestrial (Earth) days exist in a Martian year? 
 1. How many days elapse on Earth in the time that Mars circles the Sun once.
 2. Visually estimate the result by plotting the daily minimum temperature.
 
